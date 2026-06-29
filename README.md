@@ -89,7 +89,34 @@ source install/setup.bash
 ```
 
 ---
+## Operating Modes
 
+### SLAM Mode
+
+Used to generate a map of the environment using LiDAR and SLAM Toolbox.
+
+Components:
+- Robot Bringup
+- SLLidar Driver
+- SLAM Toolbox
+- RViz Visualization
+
+### Navigation Mode
+
+Used for autonomous navigation on a previously generated map.
+
+Components:
+- Robot Bringup
+- SLLidar Driver
+- AMCL Localization
+- Nav2 Navigation Stack
+- RViz Navigation Interface
+
+Capabilities:
+- Map-based localization
+- Goal-based navigation
+- Autonomous path planning
+- Obstacle avoidance
 
 ## Demonstration
 

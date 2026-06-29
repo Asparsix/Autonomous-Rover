@@ -122,6 +122,15 @@ Capabilities:
 
 The rover was tested on physical hardware with LiDAR-based sensing and autonomous navigation.
 
+## Demo Videos
+
+### Autonomous Navigation Demo
+
+[▶ Watch Navigation Demo](https://github.com/Asparsix/Autonomous-Rover/blob/main/images/video.mp4)
+
+### Rover Camera Demo
+
+[▶ Watch Camera Demo](https://github.com/Asparsix/Autonomous-Rover/blob/main/images/camera.mp4)
 ### Capabilities Demonstrated
 
 * Autonomous movement

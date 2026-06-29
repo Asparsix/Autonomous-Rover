@@ -1,5 +1,5 @@
 # Autonomous Rover
-
+![Autonomous Rover](images/Rover.jpeg)
 ## Overview
 
 Autonomous Rover is a ROS2-based mobile robot developed for autonomous navigation and obstacle detection in indoor environments. The system integrates LiDAR sensing, custom ROS2 interfaces, navigation modules, and microcontroller-based motor control to enable autonomous movement on a physical rover platform.

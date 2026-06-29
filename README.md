@@ -33,7 +33,7 @@ Navigation Controller
 ↓
 micro-ROS Agent
 ↓
-ESP32 Microcontroller
+Raspberry Pi Pico Microcontroller
 ↓
 Motor Driver
 ↓
@@ -43,7 +43,7 @@ DC Motors
 
 ## Hardware Components
 
-* ESP32 Microcontroller
+* Raspberry Pi Pico Microcontroller
 * LiDAR Sensor
 * Motor Driver Module
 * DC Gear Motors
